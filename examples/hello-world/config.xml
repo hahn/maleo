@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<widget id="id.blankon.helloworld"
+    version="1.0.0"
+    xmlns="http://www.w3.org/ns/widgets"
+    width="400"
+    height="200">
+
+    <name>Hello World</name>
+
+    <description>
+        Hello World sample application
+    </description>
+
+    <author href="http://blankon.id">
+        BlankOn Team
+    </author>
+
+    <content src="index.html"/>
+</widget>
