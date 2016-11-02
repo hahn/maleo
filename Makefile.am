@@ -4,9 +4,10 @@ NULL =
 
 SUBDIRS = \
 	src \
+	po \
 	$(NULL)
 
-maleodocdir = ${prefix}/doc/maleo
+maleodocdir = ${prefix}/share/doc/maleo
 maleodoc_DATA = \
 	ChangeLog \
 	README \

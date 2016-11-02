@@ -43,6 +43,7 @@ AC_PREFIX_DEFAULT("/usr")
 
 AC_CONFIG_FILES([Makefile
 	src/Makefile
+	po/Makefile.in
 	])
 
 AC_OUTPUT

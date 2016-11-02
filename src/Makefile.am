@@ -31,7 +31,7 @@ EXTRA_DIST = \
 DISTCLEANFILES = \
 	$(NULL)
 
-install-exec-hook:
-	$(LN_S) $(DESTDIR)$(bindir)/maleo$(EXEEXT) \ 
-		$(DESTDIR)$(bindir)/html5app$(EXEEXT)
+#install-exec-hook:
+#	$(LN_S) $(DESTDIR)$(bindir)/maleo$(EXEEXT) \ 
+#		$(DESTDIR)$(bindir)/html5app$(EXEEXT)
 
